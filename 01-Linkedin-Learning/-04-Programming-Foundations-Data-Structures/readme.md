@@ -13,4 +13,4 @@
 - Trees and graphs
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-data-structures-2/)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/9bf5906c4cef97663b07530c31524a4da8c3cadf821b0bd39e73706932bf6791?trk=share_certificate)
